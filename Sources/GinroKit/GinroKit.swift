@@ -1,6 +1,9 @@
-public struct GinroKit {
-    public private(set) var text = "Hello, World!"
 
+import Foundation
+
+public struct GinroKit {
     public init() {
+        
+        
     }
 }
